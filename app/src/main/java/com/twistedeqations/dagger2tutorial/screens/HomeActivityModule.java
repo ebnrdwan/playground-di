@@ -6,6 +6,7 @@ import dagger.Provides;
 @Module
 public class HomeActivityModule {
 
+
     private final HomeActivity homeActivity;
 
     public HomeActivityModule(HomeActivity homeActivity) {
